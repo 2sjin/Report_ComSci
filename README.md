@@ -1,5 +1,5 @@
 
-# Report_ComSci
+# Report Of Computer Science
 컴퓨터과학(Computer Science) 이론 과목 구현 과제 또는 Term Project를 정리한 저장소입니다.
 
 ---
